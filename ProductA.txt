@@ -1,1 +1,4 @@
+__confix_by_master_and_feature1__
 text-ProductA-by-master
+text-ProductA-by-feature1
+
